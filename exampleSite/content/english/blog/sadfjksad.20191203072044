@@ -9,6 +9,6 @@ title = "sadfjksad"
 
 +++
 ```javascript
-cosnt name = "hello"
+const name = "hello"
 console.log(name)
 ```
