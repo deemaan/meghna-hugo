@@ -1,0 +1,10 @@
++++
+author = "John Doe"
+date = 2020-04-12T18:30:00Z
+description = "This is the new post's description."
+image = "/images/portfolio/portfolio-2.webp"
+image_webp = "/images/about/about-business-man.webp"
+title = "This is a new post"
+
++++
+# This is a new post title
