@@ -2,7 +2,6 @@
 author = "Mark Dinn"
 date = 2018-09-12T08:51:12Z
 description = "This is meta description"
-draft = true
 image = "images/blog/meghna.jpg"
 image_webp = "images/blog/meghna.webp"
 title = "How To Setup Meghna Hugo"
