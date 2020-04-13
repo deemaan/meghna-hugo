@@ -2,7 +2,6 @@
 author = "John Doe"
 date = 2020-04-13T09:58:00Z
 description = "This is the new post's description."
-draft = true
 image = "/images/portfolio/portfolio-4.jpg"
 image_webp = "/images/blog/blog-post-2.webp"
 title = "This is a new post"
