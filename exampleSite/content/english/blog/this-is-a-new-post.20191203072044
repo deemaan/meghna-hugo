@@ -2,7 +2,6 @@
 author = "John Doe"
 date = ""
 description = "This is the new post's description."
-draft = true
 image = ""
 image_webp = "/images/blog/blog-post-2.webp"
 title = "This is a new post"
